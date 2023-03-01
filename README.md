@@ -1,1 +1,1 @@
-# S-P-500-Stock-Prices
+# S&P 500 Stock Prices
